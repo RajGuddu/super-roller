@@ -1,0 +1,140 @@
+
+
+@media screen and (max-width:1200px) {
+    .desktop-view li.nav-item {
+        padding: 0 19px;
+    }
+    .desktop-view.navbar-dark .navbar-nav .nav-link {
+        font-size: 16px;
+    }
+    .cart-search {
+        margin-left: 77px;
+    }
+}
+
+@media screen and (max-width:992px) { 
+   
+   
+    .panel-space-y{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    
+    
+}
+
+@media (max-width: 991px) {
+    .tab-content>.tab-pane {
+        display: block;
+        opacity: 1;
+    }
+}
+
+@media screen and (max-width:767px) {
+   
+    .panel-space-y{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .footer-links ul li a {
+        font-size: 14px;
+    }
+
+
+
+    .banner-content h1 {
+        font-size: 28px;
+    }
+    .banner_section {
+        padding: 4rem 0 7rem;
+    }
+    .atta-pre h3 {
+        font-size: 23px;
+    }
+    .atta-pre {
+        padding-left: 0px;
+    }
+    .best-sel {
+        font-size: 20px;
+    }
+    .fw-font-5 {
+        font-weight: 500;
+        font-size: 25px;
+    }
+    .social-links {
+        gap: 20px;
+      
+    }
+    .atta-1{
+        padding-bottom:30px;
+    }
+    .tess-head a {
+        font-size: 15px;
+        padding-bottom: 23px;
+    }
+    .roottaa {
+        padding: 21px 11px;
+    }
+    .roott{
+        padding-bottom:10px;
+    }
+    .slider-ppp h4{
+        font-size:16px;
+    }
+    .button-now a {
+        font-size: 12px;
+        padding: 7px 20px;
+    }
+    p{
+        font-size:16px;
+    }
+
+    /* sign */
+    .welcom-super{
+        width: 100%;
+        margin: auto;
+    }
+    .welcom-super h2 {
+        font-size: 24px;
+        margin-top: 21px;
+    }
+    .slider-testimonial {
+        margin-right: 0%;
+    }
+    .slider-explor {
+        margin-right: 0%;
+    }
+    .slider-testimonial .owl-controls {
+     
+        text-align: center;
+    }
+    .slider-explor .owl-controls{
+        text-align: center;
+    }
+
+
+    /* about */
+    .fonten-siz {
+        font-size: 25px;
+    }
+    .p-font-siz {
+        font-size: 16px;
+    }   
+    .get-in-tuch {
+        padding-top: 107px;
+    } 
+    .getin-box h4 {
+        font-size: 25px;
+    }
+    .contact-locatin {
+        width: 100%;
+        margin: auto;
+        display: inline;
+    }
+    .c-l-box {
+        margin-top: 34px;
+    }
+    .factroy img {
+        height: 311px;
+    }
+}

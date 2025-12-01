@@ -1,0 +1,5 @@
+[04-Nov-2023 12:12:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/webpazmn/public_html/Hosting/career-boss.com/editor/scripts/saf/hyperlink.php:2
+Stack trace:
+#0 /home1/webpazmn/public_html/Hosting/career-boss.com/editor/scripts/saf/hyperlink.php(2): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'hotspec')
+#1 {main}
+  thrown in /home1/webpazmn/public_html/Hosting/career-boss.com/editor/scripts/saf/hyperlink.php on line 2
